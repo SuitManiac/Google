@@ -1,5 +1,5 @@
 # 
 ## Cloudflare Google
 ```
-https://google.subscription.us.kg/auto
+https://google.node.linkpc.net/auto
 ```
